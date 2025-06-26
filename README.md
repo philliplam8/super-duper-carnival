@@ -1,5 +1,19 @@
 # README
 
+  * [Demo](#demo)
+  * [Backend](#backend)
+    + [Note](#note)
+    + [Requirements](#requirements)
+    + [Things to do](#things-to-do)
+  * [Frontend](#frontend)
+    + [Note](#note-1)
+    + [Requirements](#requirements-1)
+    + [Things to do](#things-to-do-1)
+  * [Misc](#misc)
+    + [Features Missing](#features-missing)
+    + [Assumptions](#assumptions)
+    + [Future Things to do](#future-things-to-do)
+
 ## Demo
 https://github.com/user-attachments/assets/1837b764-a678-4339-907a-2af06136b7ea
 
