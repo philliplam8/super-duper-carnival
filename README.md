@@ -3,10 +3,12 @@
   * [Demo](#demo)
   * [Backend](#backend)
     + [Note](#note)
+    + [Setup](#setup)
     + [Requirements](#requirements)
     + [Things to do](#things-to-do)
   * [Frontend](#frontend)
     + [Note](#note-1)
+    + [Setup](#setup-1)
     + [Requirements](#requirements-1)
     + [Things to do](#things-to-do-1)
   * [Misc](#misc)
@@ -26,6 +28,16 @@ https://github.com/user-attachments/assets/1837b764-a678-4339-907a-2af06136b7ea
 ### Note
 This is the first time I will be working with .NET and with C#
 I will mainly be referencing the boilerplate code setup/tutorial provided by Microsoft here: https://learn.microsoft.com/en-us/aspnet/core/tutorials/min-web-api?view=aspnetcore-9.0&tabs=visual-studio-code
+
+### Setup
+1. Ensure .NET is already installed on your local machine
+2. Execute the following commands in the terminal from the main directory
+   ```
+   cd backend/TaskApi
+   dotnet build
+   dotnet run
+   ```
+3. This should start a local backend server running on `http://localhost:5137`
 
 ### Requirements
 
@@ -62,6 +74,16 @@ TASK: {
 
 ### Note
 Design help from V0 was used to quickly craft the baseline UI.
+
+### Setup
+1. Ensure `npm` is already installed on your local machine
+2. Execute the following commands in the terminal from the main directory
+  ```
+  cd frontend/task-app
+  npm i
+  npm run dev
+  ```
+3. This should start a local web server running on `http://localhost:3000`
 
 ### Requirements
 
